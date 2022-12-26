@@ -1,0 +1,3 @@
+- Two Max 1D Range Sum
+- Discard running sum only if it's less than 0, to ensure smallest smallest starting point
+- Save current running sum as best only if it's strictly greater than current best, to ensure smallest ending point

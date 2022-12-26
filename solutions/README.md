@@ -11,6 +11,7 @@
 | addingwords | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Adding%20Words)|
 | administrativeproblems | [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Administrative%20Difficulties)|
 | airconditioned | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Air%20Conditioned%20Minions)|
+| alicedigital | [Alice in the Digital World](https://open.kattis.com/problems/alicedigital) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Alice%20in%20the%20Digital%20World)|
 | aliennumbers | [Alien Numbers](https://open.kattis.com/problems/aliennumbers) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Alien%20Numbers)|
 | almostunionfind | [Almost Union-Find](https://open.kattis.com/problems/almostunionfind) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Almost%20Union-Find)|
 | alphabet | [Alphabet](https://open.kattis.com/problems/alphabet) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Alphabet)|
@@ -150,6 +151,7 @@
 | primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Primary%20Arithmetic)|
 | primesieve | [Prime Sieve](https://open.kattis.com/problems/primesieve) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Prime%20Sieve)|
 | prozor | [Prozor](https://open.kattis.com/problems/prozor) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Prozor)|
+| purplerain | [Purple Rain](https://open.kattis.com/problems/purplerain) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Purple%20Rain)|
 | quickbrownfox | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Quick%20Brown%20Fox)|
 | commercials | [Radio Commercials](https://open.kattis.com/problems/commercials) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Radio%20Commercials)|
 | reachableroads | [Reachable Roads](https://open.kattis.com/problems/reachableroads) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Reachable%20Roads)|
