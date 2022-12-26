@@ -46,11 +46,11 @@ class KattisWorkspaceCreator(WorkspaceCreator):
     def __init__(self, url):
         super().__init__(url)
         self.problem_scraper = KattisProblemScraper(url)
-        self.kattis_dir = self.base_path / "Kattis"
+        self.solutions_dir = self.base_path / "solutions"
         self.problem_dir = None
 
     def create_directory(self):
-        self.problem_dir = self.kattis_dir / self.problem_scraper.get_problem_name()
+        self.problem_dir = self.solutions_dir / self.problem_scraper.get_problem_name()
         if not os.path.exists(self.problem_dir):
             os.mkdir(self.problem_dir)
 
