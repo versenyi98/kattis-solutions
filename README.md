@@ -167,6 +167,7 @@
 | amoebas | [Sheba's Amoebas](https://open.kattis.com/problems/amoebas) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sheba%27s%20Amoebas)|
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Shiritori)|
 | shopaholic | [Shopaholic](https://open.kattis.com/problems/shopaholic) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Shopaholic)|
+| shortsell | [Short Sell](https://open.kattis.com/problems/shortsell) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Short%20Sell)|
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sideways%20Sorting)|
 | sim | [Sim](https://open.kattis.com/problems/sim) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sim)|
 | simpleaddition | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Simple%20Addition)|
