@@ -1,6 +1,6 @@
 | ID | Link to description | Link to solution |
 |:---|:---|:---:|
-| bread    | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/Bread%20Sorting)|
+| bread    | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Bread%20Sorting)|
 #### 1 to first index, 9 to last index -> swap(1, 9) swap(2, 3)
 **9** 8 7 6 5 4 **3** **2** **1**   
 **9** 8 7 6 5 4 **1** 3 2   
