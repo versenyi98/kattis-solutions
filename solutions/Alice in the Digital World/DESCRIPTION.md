@@ -1,0 +1,2 @@
+- If a number appears in the sequence which is less than the minimum, the running sum should be discarded.
+- If another minimum appears, start over from the index of the earlier minimum + 1
