@@ -82,6 +82,7 @@
 | flagquiz | [Flag Quiz](https://open.kattis.com/problems/flagquiz) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Flag%20Quiz)|
 | flexible | [Flexible Spaces](https://open.kattis.com/problems/flexible) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Flexible%20Spaces)|
 | flowshop | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Flow%20Shop)|
+| foldedmap | [Folded Map](https://open.kattis.com/problems/foldedmap) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Folded%20Map)|
 | freckles | [Freckles](https://open.kattis.com/problems/freckles) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Freckles)|
 | freefood | [Free Food](https://open.kattis.com/problems/freefood) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Free%20Food)|
 | freeweights | [Free Weights](https://open.kattis.com/problems/freeweights) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Free%20Weights)|
