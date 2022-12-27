@@ -117,6 +117,7 @@
 | justforsidekicks | [Just for Sidekicks](https://open.kattis.com/problems/justforsidekicks) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Just%20for%20Sidekicks)|
 | kattissquest | [Kattis's Quest](https://open.kattis.com/problems/kattissquest) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Kattis%27s%20Quest)|
 | keywords    | [Keywords](https://open.kattis.com/problems/keywords   ) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Keywords)|
+| knapsack | [Knapsack](https://open.kattis.com/problems/knapsack) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Knapsack)|
 | knigsoftheforest | [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Knigs%20of%20the%20Forest)|
 | ladice | [Ladice](https://open.kattis.com/problems/ladice) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Ladice)|
 | lektira | [Lektira](https://open.kattis.com/problems/lektira) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Lektira)|
