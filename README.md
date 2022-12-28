@@ -158,6 +158,7 @@
 | commercials | [Radio Commercials](https://open.kattis.com/problems/commercials) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Radio%20Commercials)|
 | reachableroads | [Reachable Roads](https://open.kattis.com/problems/reachableroads) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Reachable%20Roads)|
 | recount | [Recount](https://open.kattis.com/problems/recount) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Recount)|
+| orders | [Restaurant Orders](https://open.kattis.com/problems/orders) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Restaurant%20Orders)|
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Rings)|
 | roompainting | [Room Painting](https://open.kattis.com/problems/roompainting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Room%20Painting)|
 | runningmom | [Running MoM](https://open.kattis.com/problems/runningmom) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Running%20MoM)|
