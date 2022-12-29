@@ -150,6 +150,7 @@
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Planina)|
 | platforme | [Platforme](https://open.kattis.com/problems/platforme) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Platforme)|
 | delivery | [Postal Delivery](https://open.kattis.com/problems/delivery) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Postal%20Delivery)|
+| presidentialelections | [Presidential Elections](https://open.kattis.com/problems/presidentialelections) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Presidential%20Elections)|
 | primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Primary%20Arithmetic)|
 | primesieve | [Prime Sieve](https://open.kattis.com/problems/primesieve) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Prime%20Sieve)|
 | prozor | [Prozor](https://open.kattis.com/problems/prozor) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Prozor)|
