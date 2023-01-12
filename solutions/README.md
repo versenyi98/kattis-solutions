@@ -75,6 +75,7 @@
 | escapewallmaria | [Escape Wall Maria](https://open.kattis.com/problems/escapewallmaria) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Escape%20Wall%20Maria)|
 | esej | [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Esej)|
 | evenup | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Even%20Up%20Solitaire)|
+| exactchange2 | [Exact Change](https://open.kattis.com/problems/exactchange2) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Exact%20Change)|
 | fyi | [FYI](https://open.kattis.com/problems/fyi) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/FYI)|
 | fenwick | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Fenwick%20Tree)|
 | firefly | [Firefly](https://open.kattis.com/problems/firefly) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Firefly)|
