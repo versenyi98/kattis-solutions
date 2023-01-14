@@ -142,6 +142,7 @@
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Music%20Your%20Way)|
 | npuzzle | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/N-Puzzle)|
 | nesteddolls | [Nested Dolls](https://open.kattis.com/problems/nesteddolls) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nested%20Dolls)|
+| nikola | [Nikola](https://open.kattis.com/problems/nikola) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nikola)|
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nine%20Knights)|
 | ninepacks | [Nine Packs](https://open.kattis.com/problems/ninepacks) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nine%20Packs)|
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Numbers%20On%20a%20Tree)|
