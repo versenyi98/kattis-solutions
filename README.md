@@ -181,6 +181,7 @@
 | snappereasy | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Snapper%20Chain%20%28Easy%29)|
 | snapperhard | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Snapper%20Chain%20%28Hard%29)|
 | sortofsorting | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sort%20of%20Sorting)|
+| spiderman | [Spiderman's Workout](https://open.kattis.com/problems/spiderman) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Spiderman%27s%20Workout)|
 | squaredeal | [Square Deal](https://open.kattis.com/problems/squaredeal) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Square%20Deal)|
 | squarepegs | [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Square%20Peg%20in%20a%20Round%20Hole)|
 | srednji | [Srednji](https://open.kattis.com/problems/srednji) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Srednji)|
