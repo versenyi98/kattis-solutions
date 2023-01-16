@@ -148,6 +148,7 @@
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Numbers%20On%20a%20Tree)|
 | outofsorts | [Out of Sorts](https://open.kattis.com/problems/outofsorts) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Out%20of%20Sorts)|
 | pairingsocks | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Pairing%20Socks)|
+| permutationdescent | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Permutation%20Descent%20Counts)|
 | pet | [Pet](https://open.kattis.com/problems/pet) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Pet)|
 | pivot | [Pivot](https://open.kattis.com/problems/pivot) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Pivot)|
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Planina)|
