@@ -151,6 +151,7 @@
 | permutationdescent | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Permutation%20Descent%20Counts)|
 | pet | [Pet](https://open.kattis.com/problems/pet) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Pet)|
 | pivot | [Pivot](https://open.kattis.com/problems/pivot) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Pivot)|
+| ticketpricing | [Plane Ticket Pricing](https://open.kattis.com/problems/ticketpricing) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Plane%20Ticket%20Pricing)|
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Planina)|
 | platforme | [Platforme](https://open.kattis.com/problems/platforme) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Platforme)|
 | delivery | [Postal Delivery](https://open.kattis.com/problems/delivery) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Postal%20Delivery)|
