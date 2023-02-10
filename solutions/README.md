@@ -5,6 +5,8 @@
 | [4thought](https://open.kattis.com/problems/4thought) | 4 thought | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/4thought)|
 | [99problems](https://open.kattis.com/problems/99problems) | 99 Problems | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/99problems)|
 | [a1paper](https://open.kattis.com/problems/a1paper) | A1 Paper | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/a1paper)|
+| [abstractpainting](https://open.kattis.com/problems/abstractpainting) | Abstract Painting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/abstractpainting)|
+| [bokforing](https://open.kattis.com/problems/bokforing) | Accounting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/bokforing)|
 | [abinitio](https://open.kattis.com/problems/abinitio) | Ab Initio | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/abinitio)|
 | [aboveaverage](https://open.kattis.com/problems/aboveaverage) | Above Average | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/aboveaverage)|
 | [accessdenied](https://open.kattis.com/problems/accessdenied) | Access Denied | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/accessdenied)|

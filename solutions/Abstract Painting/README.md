@@ -1,3 +1,3 @@
-| ID | Link to description | Link to solution |
+| ID | Problem name | Link to solution |
 |:---|:---|:---:|
-| abstractpainting | [Abstract Painting](https://open.kattis.com/problems/abstractpainting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Abstract%20Painting)|
+| [abstractpainting](https://open.kattis.com/problems/abstractpainting) | Abstract Painting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/abstractpainting)|
