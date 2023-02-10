@@ -4,6 +4,7 @@
 | [2048](https://open.kattis.com/problems/2048) | 2048 | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/2048)|
 | [4thought](https://open.kattis.com/problems/4thought) | 4 thought | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/4thought)|
 | [99problems](https://open.kattis.com/problems/99problems) | 99 Problems | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/99problems)|
+| [a1paper](https://open.kattis.com/problems/a1paper) | A1 Paper | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/a1paper)|
 | [abinitio](https://open.kattis.com/problems/abinitio) | Ab Initio | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/abinitio)|
 | [aboveaverage](https://open.kattis.com/problems/aboveaverage) | Above Average | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/aboveaverage)|
 | [accessdenied](https://open.kattis.com/problems/accessdenied) | Access Denied | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/accessdenied)|
@@ -218,7 +219,6 @@
 | [virus](https://open.kattis.com/problems/virus) | Virus Replication | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/virus)|
 | [walls](https://open.kattis.com/problems/walls) | Lifting Walls | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/walls)|
 | [weightofwords](https://open.kattis.com/problems/weightofwords) | The Weight Of Words | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/weightofwords)|
-| [wheels](https://open.kattis.com/problems/wheels   ) | Wheels | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/wheels)|
 | [wheresmyinternet](https://open.kattis.com/problems/wheresmyinternet) | Where's My Internet | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/wheresmyinternet)|
 | [wizardofodds](https://open.kattis.com/problems/wizardofodds) | Wizard of Odds | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/wizardofodds)|
 | [workstations](https://open.kattis.com/problems/workstations) | Assigning Workstations | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/workstations)|
