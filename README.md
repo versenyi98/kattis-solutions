@@ -7,6 +7,7 @@
 | classy | [A Classy Problem](https://open.kattis.com/problems/classy) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/A%20Classy%20Problem)|
 | cats | [A Feast For Cats](https://open.kattis.com/problems/cats) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/A%20Feast%20For%20Cats)|
 | abinitio | [Ab Initio](https://open.kattis.com/problems/abinitio) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Ab%20Initio)|
+| accessdenied | [Access Denied](https://open.kattis.com/problems/accessdenied) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Access%20Denied)|
 | addtwonumbers | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Add%20Two%20Numbers)|
 | addingwords | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Adding%20Words)|
 | administrativeproblems | [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Administrative%20Difficulties)|
