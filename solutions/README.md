@@ -183,6 +183,7 @@
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sideways%20Sorting)|
 | sim | [Sim](https://open.kattis.com/problems/sim) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sim)|
 | simpleaddition | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Simple%20Addition)|
+| simplicity | [Simplicity](https://open.kattis.com/problems/simplicity) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Simplicity)|
 | snappereasy | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Snapper%20Chain%20%28Easy%29)|
 | snapperhard | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Snapper%20Chain%20%28Hard%29)|
 | sortofsorting | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sort%20of%20Sorting)|
