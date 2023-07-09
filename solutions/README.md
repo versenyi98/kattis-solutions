@@ -191,6 +191,7 @@
 | squaredeal | [Square Deal](https://open.kattis.com/problems/squaredeal) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Square%20Deal)|
 | squarepegs | [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Square%20Peg%20in%20a%20Round%20Hole)|
 | srednji | [Srednji](https://open.kattis.com/problems/srednji) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Srednji)|
+| starbattles1 | [Star Battles I](https://open.kattis.com/problems/starbattles1) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Star%20Battles%20I)|
 | stockprices | [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Stock%20Prices)|
 | stopwatch | [Stopwatch](https://open.kattis.com/problems/stopwatch) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Stopwatch)|
 | studentsko | [Studentsko](https://open.kattis.com/problems/studentsko) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Studentsko)|
