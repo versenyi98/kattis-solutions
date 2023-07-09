@@ -9,6 +9,7 @@
 | abinitio | [Ab Initio](https://open.kattis.com/problems/abinitio) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Ab%20Initio)|
 | aboveaverage | [Above Average](https://open.kattis.com/problems/aboveaverage) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Above%20Average)|
 | accessdenied | [Access Denied](https://open.kattis.com/problems/accessdenied) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Access%20Denied)|
+| addemup | [Add 'Em Up!](https://open.kattis.com/problems/addemup) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Add%20%27Em%20Up%21)|
 | addtwonumbers | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Add%20Two%20Numbers)|
 | addingwords | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Adding%20Words)|
 | administrativeproblems | [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Administrative%20Difficulties)|
