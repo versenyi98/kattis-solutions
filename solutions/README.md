@@ -202,6 +202,7 @@
 | tautology | [Tautology](https://open.kattis.com/problems/tautology) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Tautology)|
 | teque | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Teque)|
 | terraces | [Terraces](https://open.kattis.com/problems/terraces) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Terraces)|
+| textmessaging | [Text Messaging Outrage](https://open.kattis.com/problems/textmessaging) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Text%20Messaging%20Outrage)|
 | weightofwords | [The Weight Of Words](https://open.kattis.com/problems/weightofwords) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/The%20Weight%20Of%20Words)|
 | trainsorting | [Train Sorting](https://open.kattis.com/problems/trainsorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Train%20Sorting)|
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Travel%20the%20Skies)|
