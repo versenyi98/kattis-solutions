@@ -150,6 +150,7 @@
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nine%20Knights)|
 | ninepacks | [Nine Packs](https://open.kattis.com/problems/ninepacks) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nine%20Packs)|
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Numbers%20On%20a%20Tree)|
+| ceremony | [Opening Ceremony](https://open.kattis.com/problems/ceremony) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Opening%20Ceremony)|
 | outofsorts | [Out of Sorts](https://open.kattis.com/problems/outofsorts) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Out%20of%20Sorts)|
 | pairingsocks | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Pairing%20Socks)|
 | permutationdescent | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Permutation%20Descent%20Counts)|
