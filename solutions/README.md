@@ -103,6 +103,7 @@
 | greedilyincreasing | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Greedily%20Increasing%20Subsequence)|
 | greedypolygons    | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons   ) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Greedy%20Polygons)|
 | greetingcard | [Greeting Card](https://open.kattis.com/problems/greetingcard) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Greeting%20Card)|
+| guess | [Guess the Number](https://open.kattis.com/problems/guess) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Guess%20the%20Number)|
 | height | [Height Ordering](https://open.kattis.com/problems/height) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Height%20Ordering)|
 | icpcteamselection | [ICPC Team Selection](https://open.kattis.com/problems/icpcteamselection) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/ICPC%20Team%20Selection)|
 | imageprocessing | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Image%20Processing)|
