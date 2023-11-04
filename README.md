@@ -7,7 +7,9 @@
 | classy | [A Classy Problem](https://open.kattis.com/problems/classy) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/A%20Classy%20Problem)|
 | cats | [A Feast For Cats](https://open.kattis.com/problems/cats) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/A%20Feast%20For%20Cats)|
 | abinitio | [Ab Initio](https://open.kattis.com/problems/abinitio) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Ab%20Initio)|
+| aboveaverage | [Above Average](https://open.kattis.com/problems/aboveaverage) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Above%20Average)|
 | accessdenied | [Access Denied](https://open.kattis.com/problems/accessdenied) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Access%20Denied)|
+| addemup | [Add 'Em Up!](https://open.kattis.com/problems/addemup) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Add%20%27Em%20Up%21)|
 | addtwonumbers | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Add%20Two%20Numbers)|
 | addingwords | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Adding%20Words)|
 | administrativeproblems | [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Administrative%20Difficulties)|
@@ -101,6 +103,7 @@
 | greedilyincreasing | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Greedily%20Increasing%20Subsequence)|
 | greedypolygons    | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons   ) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Greedy%20Polygons)|
 | greetingcard | [Greeting Card](https://open.kattis.com/problems/greetingcard) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Greeting%20Card)|
+| guess | [Guess the Number](https://open.kattis.com/problems/guess) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Guess%20the%20Number)|
 | height | [Height Ordering](https://open.kattis.com/problems/height) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Height%20Ordering)|
 | icpcteamselection | [ICPC Team Selection](https://open.kattis.com/problems/icpcteamselection) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/ICPC%20Team%20Selection)|
 | imageprocessing | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Image%20Processing)|
@@ -147,6 +150,7 @@
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nine%20Knights)|
 | ninepacks | [Nine Packs](https://open.kattis.com/problems/ninepacks) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Nine%20Packs)|
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Numbers%20On%20a%20Tree)|
+| ceremony | [Opening Ceremony](https://open.kattis.com/problems/ceremony) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Opening%20Ceremony)|
 | outofsorts | [Out of Sorts](https://open.kattis.com/problems/outofsorts) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Out%20of%20Sorts)|
 | pairingsocks | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Pairing%20Socks)|
 | permutationdescent | [Permutation Descent Counts](https://open.kattis.com/problems/permutationdescent) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Permutation%20Descent%20Counts)|
@@ -166,6 +170,7 @@
 | reachableroads | [Reachable Roads](https://open.kattis.com/problems/reachableroads) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Reachable%20Roads)|
 | recount | [Recount](https://open.kattis.com/problems/recount) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Recount)|
 | orders | [Restaurant Orders](https://open.kattis.com/problems/orders) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Restaurant%20Orders)|
+| rhyming | [Rhyming Slang](https://open.kattis.com/problems/rhyming) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Rhyming%20Slang)|
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Rings)|
 | roompainting | [Room Painting](https://open.kattis.com/problems/roompainting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Room%20Painting)|
 | runningmom | [Running MoM](https://open.kattis.com/problems/runningmom) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Running%20MoM)|
@@ -181,6 +186,7 @@
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sideways%20Sorting)|
 | sim | [Sim](https://open.kattis.com/problems/sim) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sim)|
 | simpleaddition | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Simple%20Addition)|
+| simplicity | [Simplicity](https://open.kattis.com/problems/simplicity) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Simplicity)|
 | snappereasy | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Snapper%20Chain%20%28Easy%29)|
 | snapperhard | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Snapper%20Chain%20%28Hard%29)|
 | sortofsorting | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Sort%20of%20Sorting)|
@@ -188,6 +194,7 @@
 | squaredeal | [Square Deal](https://open.kattis.com/problems/squaredeal) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Square%20Deal)|
 | squarepegs | [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Square%20Peg%20in%20a%20Round%20Hole)|
 | srednji | [Srednji](https://open.kattis.com/problems/srednji) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Srednji)|
+| starbattles1 | [Star Battles I](https://open.kattis.com/problems/starbattles1) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Star%20Battles%20I)|
 | stockprices | [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Stock%20Prices)|
 | stopwatch | [Stopwatch](https://open.kattis.com/problems/stopwatch) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Stopwatch)|
 | studentsko | [Studentsko](https://open.kattis.com/problems/studentsko) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Studentsko)|
@@ -198,6 +205,7 @@
 | tautology | [Tautology](https://open.kattis.com/problems/tautology) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Tautology)|
 | teque | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Teque)|
 | terraces | [Terraces](https://open.kattis.com/problems/terraces) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Terraces)|
+| textmessaging | [Text Messaging Outrage](https://open.kattis.com/problems/textmessaging) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Text%20Messaging%20Outrage)|
 | weightofwords | [The Weight Of Words](https://open.kattis.com/problems/weightofwords) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/The%20Weight%20Of%20Words)|
 | trainsorting | [Train Sorting](https://open.kattis.com/problems/trainsorting) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Train%20Sorting)|
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Travel%20the%20Skies)|
