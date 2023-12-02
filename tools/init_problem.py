@@ -1,7 +1,7 @@
 import argparse
 
 import readme_generator
-from workspace_creators import NoWorkspaceCreator, KattisWorkspaceCreator
+from workspace_creators import KattisWorkspaceCreator
 
 
 def prepare_workspace_for_problem(url: str):
