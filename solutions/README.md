@@ -56,6 +56,7 @@
 | conformity | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Conformity)|
 | continuousmedian | [Continuous Median](https://open.kattis.com/problems/continuousmedian) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Continuous%20Median)|
 | conversationlog | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Conversation%20Log)|
+| convexpolygonarea | [Convex Polygon Area](https://open.kattis.com/problems/convexpolygonarea) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Convex%20Polygon%20Area)|
 | cookieselection | [Cookie Selection](https://open.kattis.com/problems/cookieselection) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Cookie%20Selection)|
 | countingstars | [Counting Stars](https://open.kattis.com/problems/countingstars) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Counting%20Stars)|
 | cudoviste | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Cudoviste)|
