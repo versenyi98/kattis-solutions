@@ -160,6 +160,7 @@
 | ticketpricing | [Plane Ticket Pricing](https://open.kattis.com/problems/ticketpricing) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Plane%20Ticket%20Pricing)|
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Planina)|
 | platforme | [Platforme](https://open.kattis.com/problems/platforme) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Platforme)|
+| polygonarea | [Polygon Area](https://open.kattis.com/problems/polygonarea) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Polygon%20Area)|
 | delivery | [Postal Delivery](https://open.kattis.com/problems/delivery) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Postal%20Delivery)|
 | presidentialelections | [Presidential Elections](https://open.kattis.com/problems/presidentialelections) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Presidential%20Elections)|
 | primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Primary%20Arithmetic)|
