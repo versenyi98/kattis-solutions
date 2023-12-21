@@ -62,6 +62,7 @@
 | [control](https://open.kattis.com/problems/control) | Association for Control Over Minds | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/control)|
 | [conversationlog](https://open.kattis.com/problems/conversationlog) | Conversation Log | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/conversationlog)|
 | [convexhull](https://open.kattis.com/problems/convexhull) | Convex Hull | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/convexhull)|
+| [convexhull2](https://open.kattis.com/problems/convexhull2) | Convex Hull | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/convexhull2)|
 | [convexpolygonarea](https://open.kattis.com/problems/convexpolygonarea) | Convex Polygon Area | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/convexpolygonarea)|
 | [cookieselection](https://open.kattis.com/problems/cookieselection) | Cookie Selection | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/cookieselection)|
 | [countingstars](https://open.kattis.com/problems/countingstars) | Counting Stars | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/countingstars)|
