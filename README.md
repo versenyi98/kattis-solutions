@@ -173,6 +173,7 @@
 | [restaurant](https://open.kattis.com/problems/restaurant) | Working at the Restaurant | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/restaurant)|
 | [rhyming](https://open.kattis.com/problems/rhyming) | Rhyming Slang | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/rhyming)|
 | [rings2](https://open.kattis.com/problems/rings2) | Rings | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/rings2)|
+| [robotprotection](https://open.kattis.com/problems/robotprotection) | Robot Protection | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/robotprotection)|
 | [roompainting](https://open.kattis.com/problems/roompainting) | Room Painting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/roompainting)|
 | [runningmom](https://open.kattis.com/problems/runningmom) | Running MoM | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/runningmom)|
 | [schoolspirit](https://open.kattis.com/problems/schoolspirit   ) | School Spirit | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/schoolspirit)|
