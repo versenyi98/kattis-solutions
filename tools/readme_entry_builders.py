@@ -24,5 +24,5 @@ class KattisEntryBuilder(EntryBuilder):
 
         path_to_solution = f"{constants.GITHUB_MAIN_BRANCH}/solutions/{quote(name)}"
 
-        self.entry = f"| {problem_id} | [{name}]({url}) | [Solution]({path_to_solution})|\n"
+        self.entry = f"| [{problem_id}]({url}) | {name} | [Solution]({path_to_solution})|\n"
         return self

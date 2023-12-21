@@ -9,7 +9,7 @@ class HeaderProvider(ABC):
 
 class KattisHeaderProvider(HeaderProvider):
     def get(self):
-        header = "| ID | Link to description | Link to solution |\n" + \
+        header = "| ID | Problem name | Link to solution |\n" + \
                  "|:---|:---|:---:|\n"
 
         return header
