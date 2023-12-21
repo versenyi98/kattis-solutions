@@ -1,3 +1,3 @@
 | ID | Problem name | Link to solution |
 |:---|:---|:---:|
-| [marblestree](https://open.kattis.com/problems/marblestree) | Marbles On A Tree | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/Marbles%20On%20A%20Tree)|
+| [marblestree](https://open.kattis.com/problems/marblestree) | Marbles On A Tree | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/marblestree)|
