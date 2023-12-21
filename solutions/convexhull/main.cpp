@@ -2,7 +2,7 @@
 
 using namespace std;
 
-const int EPS = 10e-9;
+const double EPS = 1e-9;
 
 template<typename T>
 struct Vec {
