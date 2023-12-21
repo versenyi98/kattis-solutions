@@ -50,7 +50,7 @@ class KattisWorkspaceCreator(WorkspaceCreator):
         self.problem_dir = None
 
     def create_directory(self):
-        self.problem_dir = self.solutions_dir / self.problem_scraper.get_problem_name()
+        self.problem_dir = self.solutions_dir / self.url.split('/')[-1].strip()
         if not os.path.exists(self.problem_dir):
             os.mkdir(self.problem_dir)
 
@@ -64,7 +64,7 @@ class KattisWorkspaceCreator(WorkspaceCreator):
 
     def write_info_json(self):
         name = self.problem_scraper.get_problem_name()
-        id = self.url.split('/')[-1]
+        id = self.url.split('/')[-1].strip()
 
         info = {
             "Name": name,
