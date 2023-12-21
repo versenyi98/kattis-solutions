@@ -46,12 +46,6 @@ bool ccw(Point<T> p, Point<T> q, Point<T> r) {
 }
 
 template<typename T>
-bool collinear(Point<T> p, Point<T> q, Point<T> r) {
-    double res = fabs(cross(toVec(p, q), toVec(p, r)));
-    return res < EPS;
-}
-
-template<typename T>
 vector<Point<T>> andrew_monotone_chain(vector<Point<T>> points) {
     int n = points.size();
     int k = 0;
