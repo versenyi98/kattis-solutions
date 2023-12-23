@@ -5,10 +5,9 @@
 | [4thought](https://open.kattis.com/problems/4thought) | 4 thought | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/4thought)|
 | [99problems](https://open.kattis.com/problems/99problems) | 99 Problems | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/99problems)|
 | [a1paper](https://open.kattis.com/problems/a1paper) | A1 Paper | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/a1paper)|
-| [abstractpainting](https://open.kattis.com/problems/abstractpainting) | Abstract Painting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/abstractpainting)|
-| [bokforing](https://open.kattis.com/problems/bokforing) | Accounting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/bokforing)|
 | [abinitio](https://open.kattis.com/problems/abinitio) | Ab Initio | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/abinitio)|
 | [aboveaverage](https://open.kattis.com/problems/aboveaverage) | Above Average | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/aboveaverage)|
+| [abstractpainting](https://open.kattis.com/problems/abstractpainting) | Abstract Painting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/abstractpainting)|
 | [accessdenied](https://open.kattis.com/problems/accessdenied) | Access Denied | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/accessdenied)|
 | [addemup](https://open.kattis.com/problems/addemup) | Add 'Em Up! | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/addemup)|
 | [addingwords](https://open.kattis.com/problems/addingwords) | Adding Words | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/addingwords)|
@@ -33,6 +32,7 @@
 | [birds](https://open.kattis.com/problems/birds) | Birds on a Wire | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/birds)|
 | [bitbybit](https://open.kattis.com/problems/bitbybit) | Bit by Bit | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/bitbybit)|
 | [blackfriday](https://open.kattis.com/problems/blackfriday) | Black Friday | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/blackfriday)|
+| [bokforing](https://open.kattis.com/problems/bokforing) | Accounting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/bokforing)|
 | [bookingaroom](https://open.kattis.com/problems/bookingaroom) | Booking a Room | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/bookingaroom)|
 | [bread](https://open.kattis.com/problems/bread   ) | Bread Sorting | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/bread)|
 | [brickpartition](https://open.kattis.com/problems/brickpartition   ) | Bricks | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/brickpartition)|
@@ -71,6 +71,7 @@
 | [countingstars](https://open.kattis.com/problems/countingstars) | Counting Stars | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/countingstars)|
 | [cudoviste](https://open.kattis.com/problems/cudoviste) | Cudoviste | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/cudoviste)|
 | [cursethedarkness](https://open.kattis.com/problems/cursethedarkness) | Curse the Darkness | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/cursethedarkness)|
+| [cuttingcorners](https://open.kattis.com/problems/cuttingcorners) | Cutting Corners | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/cuttingcorners)|
 | [dancerecital](https://open.kattis.com/problems/dancerecital) | Dance Recital | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/dancerecital)|
 | [deathstar](https://open.kattis.com/problems/deathstar) | Deathstar | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/deathstar)|
 | [delimitersoup](https://open.kattis.com/problems/delimitersoup) | Delimiter Soup | [Solution](https://github.com/versenyi98/kattis-solutions/tree/main/solutions/delimitersoup)|
